@@ -1,0 +1,6 @@
+  {
+    "name": "Youtube Comment Filter [name tbd]",
+    "version": "1.0",
+    "description": "My first attempt at building a Chrome extension!",
+    "manifest_version": 2
+  }
